@@ -1,0 +1,4 @@
+[submodule "noellereedblog/public"]
+	path = noellereedblog/public
+	url = https://github.com/Kobilian98/noellereed.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://noellereed.github.io/'
+languageCode = 'en-us'
+title = 'Noelle Reed'
+theme = 'hugo-theme-m10c'
