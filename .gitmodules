@@ -2,3 +2,8 @@
 	path = noellereedblog/public
 	url = https://github.com/Kobilian98/noellereed.github.io.git
 	branch = main
+
+[submodule "noellereedblog/themes/hugo-theme-m10c"]
+	path = noellereedblog/themes/hugo-theme-m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+	branch = main
